@@ -1,0 +1,280 @@
+{
+	"name": "Streadata.io API Gallery - Surveys",
+	"description": "This is a repository of surveys APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/surveys.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://surveys.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Constant Contact",
+			"x-api-slug": "constant-contact",
+			"description": "With Constant Contact, you can create effective email marketing and other online marketing campaigns to meet your business goals. Start your FREE trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/171-constant-contact.jpg",
+			"humanURL": "http://blogs.constantcontact.com",
+			"baseURL": "https://api.constantcontact.com//v2",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/constant-contact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FormSite",
+			"x-api-slug": "formsite",
+			"description": "Easily create online forms and surveys using our HTML form builder. Professionally collect orders, registrations, reservations and customer feedback.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/405-formsite.jpg",
+			"humanURL": "http://www.formsite.com",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/formsite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SurveyGizmo",
+			"x-api-slug": "surveygizmo",
+			"description": "Advanced (but easy to use) online survey software tool that comes with amazing customer service, every survey feature you can imagine and an open API",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/490-surveygizmo.jpg",
+			"humanURL": "http://www.surveygizmo.com/",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/surveygizmo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GoToMeeting",
+			"x-api-slug": "gotomeeting",
+			"description": "Citrix enables business mobility through the secure delivery of apps and data to any device on any network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/731-gotomeeting.jpg",
+			"humanURL": "https://citrixonline.com",
+			"baseURL": "https://api.citrixonline.com//identity/v1",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/gotomeeting/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EPA Envirofacts",
+			"x-api-slug": "epa-envirofacts",
+			"description": "EPAs purpose is to ensure that:    -  all Americans are protected from significant risks to human health and the environment where they live, learn and work;    -  national efforts to reduce environmental risk are based on the best available scientifi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/773-epa-envirofacts.jpg",
+			"humanURL": "http://www.epa.gov",
+			"baseURL": "https://ofmpub.epa.gov//echo",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/epa-envirofacts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Survey Analytics",
+			"x-api-slug": "survey-analytics",
+			"description": "A suite of interconnected and easy-to-use information collection and analysis tools, including online surveys, mobile data collection, advanced analytics and data visualization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/948-survey-analytics.jpg",
+			"humanURL": "http://www.surveyanalytics.com/",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/survey-analytics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kinsey Reporter",
+			"x-api-slug": "kinsey-reporter",
+			"description": "A global mobile survey platform to share, explore, and visualize anonymous data about sex.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1437-kinsey-reporter.jpg",
+			"humanURL": "http://kinseyreporter.org/data",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/kinsey-reporter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Checkbox Survey",
+			"x-api-slug": "checkbox-survey",
+			"description": "Powerful .NET survey software. Install on-premises or access via online subscription. White-labeling and source code available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1560-checkbox-survey.jpg",
+			"humanURL": "http://www.checkbox.com",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/checkbox-survey/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SurveyMonkey",
+			"x-api-slug": "surveymonkey",
+			"description": "Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1573-surveymonkey.jpg",
+			"humanURL": "https://surveymonkey.com/",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/surveymonkey/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "123FormBuilder",
+			"x-api-slug": "123formbuilder",
+			"description": "Create free web forms for your website within minutes, build complex workflows, sell online and more. With the simple drag & drop interface, building an online form, survey, poll or quiz is a breeze. Sign up for free to get started!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1638-123contactform.jpg",
+			"humanURL": "http://www.123formbuilder.com",
+			"baseURL": "https://api.123contactform.com//v2",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/123formbuilder/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Delighted",
+			"x-api-slug": "delighted",
+			"description": "Delighted uses Net Promoter Score to gather real feedback from your customers &ndash; in minutes not weeks. Delighted streamlines survey creation and delivery. Say goodbye to long surveys with abysmal response rates. Our surveys generate high response rates by blending seamlessly with your brand and respecting your customers&rsquo; time. Delighted gives you full control of how, when, and where your customers are surveyed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19284-delighted-(slackbot).jpg",
+			"humanURL": "https://delighted.com",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/delighted/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Consumer Surveys",
+			"x-api-slug": "google-consumer-surveys",
+			"description": "Google Consumer Surveys brings journalists the latest data on elections and political opinions. Create your own surveys for custom insights specific to your audience for free. Faster and more accurate online polling. Imagine surveying public opinion with a tool so precise, it could predict the nation&rsquo;s next president. That tool is Google Consumer Surveys.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Consumer-Surveys-earn-money-payment.jpg",
+			"humanURL": "https://surveys.withgoogle.com/",
+			"baseURL": "://www.googleapis.com//consumersurveys/v2",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/google-consumer-surveys/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Typeform",
+			"x-api-slug": "typeform",
+			"description": "Build conversational forms, surveys, quizzes, landing pages, and more. Typeforms are easy to make and refreshing to take. Try it FREE ??? no coding required.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28236-developer-typeform-com.jpg",
+			"humanURL": "https://typeform.com",
+			"baseURL": "https:///",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/typeform/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LogMeIn",
+			"x-api-slug": "logmein",
+			"description": "LogMeIn, Inc. is a provider of software as a service and cloud-based remote connectivity services for collaboration, IT management and customer engagement, founded in 2003 and based in Boston, Massachusetts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg",
+			"humanURL": "http://www.LogMeInInc.com",
+			"baseURL": "https://api.getgo.com//G2W/rest/organizers",
+			"tags": "Surveys",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/logmein/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Surveys",
+	"include": [
+		{
+			"name": "Constant Contact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/constant-contact/apis.yaml"
+		},
+		{
+			"name": "FormSite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/formsite/apis.yaml"
+		},
+		{
+			"name": "SurveyGizmo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/surveygizmo/apis.yaml"
+		},
+		{
+			"name": "GoToMeeting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/gotomeeting/apis.yaml"
+		},
+		{
+			"name": "EPA Envirofacts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/epa-envirofacts/apis.yaml"
+		},
+		{
+			"name": "Survey Analytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/survey-analytics/apis.yaml"
+		},
+		{
+			"name": "Kinsey Reporter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/kinsey-reporter/apis.yaml"
+		},
+		{
+			"name": "Checkbox Survey",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/checkbox-survey/apis.yaml"
+		},
+		{
+			"name": "SurveyMonkey",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/surveymonkey/apis.yaml"
+		},
+		{
+			"name": "123FormBuilder",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/123formbuilder/apis.yaml"
+		},
+		{
+			"name": "Delighted",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/delighted/apis.yaml"
+		},
+		{
+			"name": "Google Consumer Surveys",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/google-consumer-surveys/apis.yaml"
+		},
+		{
+			"name": "Typeform",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/typeform/apis.yaml"
+		},
+		{
+			"name": "LogMeIn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/surveys/master/_listings/logmein/apis.yaml"
+		}
+	]
+}
